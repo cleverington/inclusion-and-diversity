@@ -6,10 +6,10 @@ Notes, action items and community initiatives drafted by and for the Drupal comm
 
 ### Purpose:
 To continue the conversation about diversity and inclusion within Drupal. This includes:
-To provide a safe space to discuss issues of d&i within the Drupal community.  
-To provide support for people who are marginalized in technology
-To provide strategies for increasing d&i of communities and organizations
-To share resources/education about social justice issues in our technological communities - d&i, equality, inclusion, accessibility, etc.
+- To provide a safe space to discuss issues of d&i within the Drupal community.  
+- To provide support for people who are marginalized in technology
+- To provide strategies for increasing d&i of communities and organizations
+- To share resources/education about social justice issues in our technological communities - d&i, equality, inclusion, accessibility, etc.
 
 ### Sample every-meeting agenda:
 purpose review
