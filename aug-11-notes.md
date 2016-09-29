@@ -14,14 +14,16 @@ Reviewing the resource list.
 
 
 # Discussion Points
-@bradleyfields i think i’m noticing 3 possible distinct initiatives with all the notes, ideas, etc. gathered so far:
-1. changing minds (the “i only hire based on merit” stories)
-2. welcoming underrepresented people
-3. encouraging/enabling/giving tools to, etc. people who want to be accomplices, but don’t know how/where/whether to start (edited)
-and so
-a. is that a fair characterization?
-b. should we prioritize one over any other?
-c. do we need to segment our work accordingly? (e.g., a “changing minds” group within this d+i set)
+_@bradleyfields_:
+
+    i think i’m noticing 3 possible distinct initiatives with all the notes, ideas, etc. gathered so far:
+    1. changing minds (the “i only hire based on merit” stories)
+    2. welcoming underrepresented people
+    3. encouraging/enabling/giving tools to, etc. people who want to be accomplices, but don’t know how/where/whether to start (edited)
+    and so
+    a. is that a fair characterization?
+    b. should we prioritize one over any other?
+    c. do we need to segment our work accordingly? (e.g., a “changing minds” group within this d+i set)
 
 
 # Followup for next meeting:
